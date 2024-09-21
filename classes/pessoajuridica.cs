@@ -1,10 +1,10 @@
 namespace _senai.classes
 {
-    public class pessoajuridica : pessoa
+    public class Pessoajuridica : Pessoa
     {
         public string? cnpj {get; set;}
-        public void Inserir (pessoajuridica pj) {
-            using (StringWriter sw = new StringWriter(pj.Nome+".txt"))
+        public void Inserir (Pessoajuridica pj) {
+            using (StreamWriter sw = new StreamWriter(pj.Nome+".txt"))
             {
                 sw.WriteLine($"{pj.Nome},{pj.Rendimento},{pj.cnpj}");
             }
