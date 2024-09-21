@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\bin\Debug\net8.0\_senai.exe
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\bin\Debug\net8.0\_senai.deps.json
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\bin\Debug\net8.0\_senai.runtimeconfig.json
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\bin\Debug\net8.0\_senai.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\bin\Debug\net8.0\_senai.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.sourcelink.json
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\refint\_senai.dll
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.pdb
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\_senai.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Documentos\GitHub\_senai\obj\Debug\net8.0\ref\_senai.dll
