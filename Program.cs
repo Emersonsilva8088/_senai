@@ -6,12 +6,17 @@ do
 Console.Clear();
 Console.WriteLine(@"
 1 - Cadastrar PJ
+2 - lista
 0 - Sair
 ");
+
 opcao = Console.ReadLine();
+
 Pessoajuridica metodosPj = new Pessoajuridica ();
+
 if (opcao == "1") {
     Pessoajuridica pj = new Pessoajuridica();
+
     Console.WriteLine("Digite o nome da pj:");
     pj.Nome = Console.ReadLine();
 
@@ -24,6 +29,7 @@ if (opcao == "1") {
     metodosPj.Inserir(pj);
 
     } else if (opcao == "2") {
+
     } else if (opcao == "0") {
         Console.WriteLine("Obrigado por utilizar o nosso sistema! :)");
     }else {

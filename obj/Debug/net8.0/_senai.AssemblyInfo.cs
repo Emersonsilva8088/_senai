@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_senai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ed6d696e82a9a11e50a787bbe9a57df0eecb58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8137a0178c519d7708a747380c58bd2c592857d")]
 [assembly: System.Reflection.AssemblyProductAttribute("_senai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_senai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
